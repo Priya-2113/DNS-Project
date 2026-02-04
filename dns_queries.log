@@ -1,0 +1,11 @@
+[2025-04-17 23:17:20] 192.168.15.20 requested A record for www.abc.com -> 192.168.10.1
+[2025-04-17 23:17:22] 192.168.15.20 requested A record for www.abc.com -> 192.168.10.2
+[2025-04-17 23:17:24] 192.168.15.20 requested A record for www.abc.com -> 192.168.10.3
+[2025-04-17 23:17:32] 192.168.15.20 requested A record for www.abc.com -> 192.168.10.1
+[2025-04-17 23:17:39] 192.168.15.20 requested A record for www.def.com -> 192.168.20.1
+[2025-04-17 23:17:43] 192.168.15.20 requested A record for www.def.com -> 192.168.20.2
+[2025-04-17 23:17:51] 192.168.15.20 requested A record for www.ghi.com -> 192.168.30.1
+[2025-04-17 23:17:56] 192.168.15.20 requested A record for www.ghi.com -> 192.168.30.1
+[2025-04-17 23:18:06] 192.168.15.20 requested AAAA record for www.ghi.com -> 2001:db8::3
+[2025-04-17 23:18:13] 192.168.15.20 requested AAAA record for www.abc.com -> 2001:db8::2
+[2025-04-17 23:18:19] 192.168.15.20 requested AAAA record for www.abc.com -> 2001:db8::1
